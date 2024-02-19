@@ -1,5 +1,5 @@
 # todo-list-app
-A simple Todo list app built using React.js and Express with features to add, edit, mark tasks as complete.
+A simple Todo list app built using React.js and Express with features to add, edit, and mark tasks as complete.
 =======
 # React + Vite
 
